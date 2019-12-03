@@ -6,7 +6,7 @@ public class Math {
     public static void main(String[] args) {
         Math myApp = new Math();
 
-        int a = 7;
+        int a = 8;
         int b = 6;
 
         int sum;
